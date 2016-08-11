@@ -16,7 +16,8 @@
   "scripts": {
     "test": "grunt",
     "build": "grunt build",
-    "prepublish": "npm prune && npm run build"
+    "prepublish": "npm prune && npm run build",
+    "install": "npm prune && npm run build"
   },
   "keywords": [
     "spec",
