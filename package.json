@@ -58,6 +58,8 @@
     "sinon": "^1.17.1"
   },
   "contributors": [
-    "Andrew Keig <andrew.keig@gmail.com>"
+    "Sameer Balasubrahmanyam <sameer_balasubrahmanyam@intuit.com>",
+    "Andrew Keig <andrew.keig@gmail.com>",
+    "Ricardo Oliveira <ricardolotr@gmail.com>"
   ]
 }
